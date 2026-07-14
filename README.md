@@ -118,10 +118,10 @@ ou utiliser Live Server.
 # 📬 Contact
 
 Email :
-(votre email)
+ebahdavidmarius@gmail.com
 
 LinkedIn :
-(votre lien)
+https://www.linkedin.com/in/david-ebah-51b569382
 
 GitHub :
 https://github.com/Vlacode
