@@ -8,6 +8,55 @@ Ce projet suit les recommandations de **Keep a Changelog** et le versionnement *
 - SemVer : https://semver.org/lang/fr/
 
 ---
+## [1.5.1] - 2026-07-15
+
+### ♻️ Refactoring
+
+#### CSS
+
+Refactoring complet du fichier `style.css`.
+
+### ✨ Amélioré
+
+- Réorganisation complète de l'architecture du fichier CSS.
+- Harmonisation de l'ordre des sections.
+- Uniformisation de la nomenclature des commentaires.
+- Amélioration de la lisibilité générale du code.
+- Meilleure séparation des responsabilités entre les différentes sections.
+
+### 🚀 Optimisé
+
+- Suppression des règles CSS dupliquées.
+- Fusion des sélecteurs identiques.
+- Suppression des animations redondantes.
+- Regroupement des media queries similaires.
+- Réduction du poids du fichier CSS.
+- Amélioration des performances de chargement.
+- Réduction de la dette technique.
+- Simplification de la maintenance du projet.
+
+### 🛠️ Corrigé
+
+- Élimination des doublons présents dans :
+  - Header
+  - Navbar
+  - Hero
+  - CTA
+  - About
+  - Skills
+  - Formation
+  - Projects
+  - Contact
+  - Footer
+  - Animations
+  - Scrollbar
+  - Responsive
+  - Accessibility
+
+### 📚 Documentation
+
+- Mise à jour du `CHANGELOG.md`.
+- Mise à jour du `RAPPORT_MODIFICATIONS.md`.
 
 ## [1.5.0] - 2026-07-14
 
